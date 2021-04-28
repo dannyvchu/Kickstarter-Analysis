@@ -9,7 +9,7 @@ By looking at multiple factors, we can apply statistical analysis to give Louise
 ![linechart1](linechart1.png)
   Looking at this chart, we can see that all successful kickstarter campaigns have a noticeable increased chance of success during the months of April to June. There could be many factors that go into this sharp bump (start of the summer, end of industry deadlines, etc).
 ---
-##Results and Conclusion
+## Results and Conclusion
   If we further isolate just the theater fundraising campaigns, we can see that the new chart below has a very similar shape to the chart above.
   ![Theater_Outcomes_vs_Launch](Theater_Outcomes_vs_Launch.png)
   To maximize the success for Louise, she should: 1 - Launch her campaign in the months of April or May, and 2 - Avoid launching her campaign in the winter, especially in December.
