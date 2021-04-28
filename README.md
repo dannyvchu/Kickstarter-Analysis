@@ -13,8 +13,7 @@ By looking at multiple factors, we can apply statistical analysis to give Louise
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If we further isolate just the theater fundraising campaigns, we can see that the new chart below has a very similar shape to the chart above.
   ![Theater_Outcomes_vs_Launch](Theater_Outcomes_vs_Launch.png)
   To maximize the success for Louise, she should: 1 - Launch her campaign in the months of April or May, and 2 - Avoid launching her campaign in the winter, especially in December.
----
-
+The other important variable that needs to be considered is the monetary goal of the fundraiser.
 ![Outcomes_vs_Goals](Outcomes_vs_Goals.png)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Looking at the data, it should be obvious to see that the higher the goal of the campaign, the lower chance of success the fundraiser will have. Currently, Louise has a budget of a little over $10,000, which according to the data would give her a ~55% of success. Its not terrible but also not amazing. If Louise wishes to further increase her chance of success, she should try to lower her budget as much as possible. 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In conclusion, the monetary goal and launch date seem to be the most important variables to account for on paper. However there are important limitations of the data to consider: The data analyzed here is taken from only one source :kickstarter. To deepen our insight into the factors that affect successful fundraising, we should pull data from multiple different crowdsource companies. In the future, I recommend making a table and graph that compares how successful a campaign is to the full duration of the campaign. I suspect that campaigns that have the luxury of having a long drawn out run, would probably have a higher chance of reaching their monetary goals.
